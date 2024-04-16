@@ -30,7 +30,7 @@
 
 .close-button {
     position: relative;
-    left: 1850px;
+    left: 99%;
     bottom: 35px;
 }
 
@@ -79,4 +79,8 @@
     position: absolute;
     top: 7px;
     right: 7px;
+}
+
+table, th, td {
+    border: 1px solid black;
 }
